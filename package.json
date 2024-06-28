@@ -10,8 +10,8 @@
 
     "test": "ng test",
     "delete:docs":"del docs",
-    "copy:dist":"copyfiles dist/gits-app/* ./docs -f",
-    "copy:browsers":"copyfiles dist/gits-app/browser/* dist/gits-app -f",
+    "copy:dist":"copyfiles dist/country-app/* ./docs -f",
+    "copy:browsers":"copyfiles dist/country-app/browser/* dist/country-app -f",
     "watch": "ng build --watch --configuration development"
 
   },
